@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Amanda Cardoso Perovano
 
-🎓 Estudante da Aprendizagem Industrial de Progamador de Sistema de Informação.  (SENAI) contratado pelo Grupo Faranzena. 
-🎓 Estudante do 9º ano da escola Centro Municipal de Educação Integrada de Salto Veloso Riquelmo Francisco Pasin 2026. 
+🎓 Estudante da Aprendizagem Industrial de Progamador de Sistema de Informação.  (SENAI) contratado pelo Grupo Faranzena.
 
+🎓 Estudante do 9º ano da escola Centro Municipal de Educação Integrada de Salto Veloso Riquelmo Francisco Pasin 2026. 
 
 💻 Interessado em tecnologia, programação e inovação  
 
